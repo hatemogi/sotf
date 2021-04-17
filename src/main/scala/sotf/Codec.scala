@@ -1,0 +1,3 @@
+package sotf
+
+object Codec {}
